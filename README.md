@@ -33,4 +33,8 @@ composer install
 php template_pbo app:rename your_app_name
 ```
 
-### Complete your assignment
+## Reference
+
+- [Laravel Zero](https://laravel-zero.com/docs/introduction)
+- [Laravel prompt](https://laravel.com/docs/11.x/prompts)
+
