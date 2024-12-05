@@ -33,6 +33,12 @@ composer install
 php template_pbo app:rename your_app_name
 ```
 
+### copy file .env.example to .env
+
+```sh
+cp .env.example .env
+```
+
 ## Reference
 
 - [Laravel Zero](https://laravel-zero.com/docs/introduction)
