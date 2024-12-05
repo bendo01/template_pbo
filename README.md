@@ -30,8 +30,6 @@ composer install
 ### run this command to rename your app to your desired name
 
 ```sh
-composer install
-```sh
 php template_pbo app:rename your_app_name
 ```
 
