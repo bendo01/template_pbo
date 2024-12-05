@@ -38,3 +38,19 @@ php template_pbo app:rename your_app_name
 - [Laravel Zero](https://laravel-zero.com/docs/introduction)
 - [Laravel prompt](https://laravel.com/docs/11.x/prompts)
 
+
+## usually used command
+
+- view all command
+
+```sh
+php your_app_name
+```
+
+- create migration
+
+```sh
+php your_app_name make:migration create_your-table-name_table
+```
+
+
